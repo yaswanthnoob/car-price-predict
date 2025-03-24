@@ -1,9 +1,10 @@
-
-
+import os
+os.system("pip install --no-cache-dir joblib")
+import joblib
 import streamlit as st
 import numpy as np
 import pandas as pd
-import joblib
+
 
 # Load trained model and encoders
 model = joblib.load("model/car_price_model.pkl")
