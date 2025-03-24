@@ -1,9 +1,6 @@
 streamlit
-numpy
 pandas
+numpy
 joblib
-scikit-learn
-beautifulsoup4
 requests
-selenium
-webdriver-manager
+scikit-learn
