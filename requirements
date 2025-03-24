@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+joblib
+scikit-learn
+beautifulsoup4
+requests
+selenium
+webdriver-manager
